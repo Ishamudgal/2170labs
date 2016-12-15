@@ -1,0 +1,17 @@
+Script started on Tue Aug 23 13:18:04 2016
+$ 
+$ ls -l
+total 28
+-rwx------ 1 c8094718 students 21352 Aug 23 13:15 a.out
+-rw------- 1 c8094718 students  1110 Aug 23 13:14 cla2b.cc
+-rw------- 1 c8094718 students     0 Aug 23 13:17 mudgal1.log
+$ cc  A aCC cla2b.cc
+$ a.out
+Enter the first test score:  89
+Enter the second test score:  94
+Enter the third test score:  99
+The average of the three scores is:  94
+$ exit
+exit
+
+Script done on Tue Aug 23 13:19:51 2016
